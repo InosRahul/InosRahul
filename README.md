@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rahul Soni</h1>
-<h3 align="center">And this is my digital coding garden.</h3>
-
-- 🔭 I’m currently working on **MERN stack**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://inosrahul.netlify.app/](https://inosrahul.netlify.app/)
-
-- 📝 I regularly write articles on [https://dev.to/inosrahul](https://dev.to/inosrahul)
 
 - 📫 How to reach me **rahulsoni2225@gmail.com**
 
